@@ -13,7 +13,7 @@ st.set_page_config(
 		layout = 'wide',
 	)
 
-st.title('Iris Data Analysis')
+st.title('Iris Data Analysis by Ellyzabeth')
 
 with st.sidebar:
 	st.markdown('**Pilih Species**')
